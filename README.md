@@ -1,6 +1,6 @@
 # tera-notifier
 A watered down version of node-notifier for tera proxy. Allows modules to use windows Toasts/Balloons for notification purposes.
-
+* Soon only for AION :)
 ## Infomation
 - Internal Proxy Name: 'notifier'
 - Occupies the global namespace using the `activeWindow` variable. See `active window` section when implementing your own modules using this as a dependency.
