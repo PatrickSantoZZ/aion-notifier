@@ -1,4 +1,4 @@
-# tera-notifier
+# AION-notifier
 A watered down version of node-notifier for tera proxy. Allows modules to use windows Toasts/Balloons for notification purposes.
 * Soon only for AION :)
 ## Infomation
